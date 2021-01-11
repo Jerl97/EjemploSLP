@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipioDeSustitucionLISKOV", "PricipioDeSustitucionLISKOV\PrincipioDeSustitucionLISKOV.csproj", "{2FFC6BBF-E9B4-4471-9623-26364D796B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carros", "Carros\Carros.csproj", "{8D9B907D-C6B5-4DF6-B772-599923B921A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFC6BBF-E9B4-4471-9623-26364D796B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFC6BBF-E9B4-4471-9623-26364D796B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFC6BBF-E9B4-4471-9623-26364D796B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFC6BBF-E9B4-4471-9623-26364D796B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9B907D-C6B5-4DF6-B772-599923B921A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9B907D-C6B5-4DF6-B772-599923B921A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9B907D-C6B5-4DF6-B772-599923B921A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9B907D-C6B5-4DF6-B772-599923B921A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF99470E-7F06-48E0-94BD-71165166B2C5}
+	EndGlobalSection
+EndGlobal
